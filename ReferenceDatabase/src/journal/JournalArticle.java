@@ -1,4 +1,5 @@
 /* A comment for Xu to check */
+/*adfdfasf*/
 package journal;
 import java.util.Arrays;
 import be.kuleuven.cs.som.annotate.*;
